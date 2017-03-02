@@ -1,3 +1,3 @@
 # Cursuri
 Flaviu
-dasdas
+System.out.println("Hello")
